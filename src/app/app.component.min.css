@@ -1,0 +1,1 @@
+header{background-image:url(~src/assets/header1.jpg);background-repeat:no-repeat;background-size:100% 100%;display:flex;align-items:center}header h1{color:#fff;width:100%;text-align:center;background-color:orange;padding:.5em}@media (min-width: 0px) and (max-width: 768px){header{height:30em}}@media (min-width: 768px){header{height:40em}}
