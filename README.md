@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+Notes personnelles :
+
+# firebase et angular
+projet selon le tuto openclassrooms
+
+NB:
+!!! Il ne faut pas oublier d'aller dans storage sur la console firebase pour copier/coller le lien dans le projet angular pour éviter les erreurs liées au bucket.
+!!! Ne pas oublier de changer les droits en lecture/écriture pour éviter des erreurs de permissions dans la console firebase
+
+A faire:
+
+- rajouter un template
+- tester un update avec firebase
