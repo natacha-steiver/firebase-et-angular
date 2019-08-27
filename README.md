@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 Notes personnelles :
-Github n'upload pas le dossier nodes_modules. Il faut donc réinstaller tous les modules lors du téléchargement du projet
+Github n'upload pas le dossier node_modules. Il faut donc réinstaller tous les modules lors du téléchargement du projet
 # firebase et angular
 projet selon le tuto openclassrooms
 
